@@ -2,7 +2,7 @@
 using python to gather data on election results
 
 ## **Overview of Project**
-    The purpose of this project was to assist Tom, a board of elections employee in performing an election audit for a particular precinct in Colorado. The project involved obtaining the list of candidates and counties in the running and calculating the total amount of votes altogether and then for each candidate and county in order to determine the final winner of the election.
+The purpose of this project was to assist Tom, a board of elections employee in performing an election audit for a particular precinct in Colorado. The project involved obtaining the list of candidates and counties in the running and calculating the total amount of votes altogether and then for each candidate and county in order to determine the final winner of the election.
 
 ## **Resources** 
 Python 3.9.12 and Visual Studio code Version: 1.71.0 (Universal)
